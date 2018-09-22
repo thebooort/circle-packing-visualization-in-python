@@ -1,7 +1,7 @@
 # Circle packing visualization in python
 ![](https://github.com/thebooort/circle-packing-visualization-in-python/blob/master/example.png)
 
-I realized that i couldn't find any bubble chart like the ones you can create in D·.js or R. 
+I realized that i couldn't find any bubble chart like the ones you can create in D3.js or R. 
 
 To be honest I just needed this script to finish a simple degree job, but as I have needed to use it again I have decided to put some comments and some ideas and modifications in it to use the code I found in stackexchange with csv files and minor aesthetic changes.
 
